@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>iNoon Updates</title>
+        <link>https://inoon.app/</link>
+        <description>Secure software updates for iNoon.</description>
+        <language>en</language>
+        <item>
+            <title>1.0</title>
+            <pubDate>Thu, 30 Jul 2026 08:31:55 +0800</pubDate>
+            <link>https://inoon.app/</link>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>iNoon 1.0</h2>
+<p>Signed and notarized release for Apple silicon and Intel Macs running macOS 15.6 or later.</p>
+]]></description>
+            <enclosure url="https://inoon.app/downloads/iNoon-1.0-1.dmg" length="25626470" type="application/octet-stream" sparkle:edSignature="ug8Psq3uI4ux8Ebr6FGd9U5JoKt9ywo+h7hzFa0hzC4aiTwb8GuqxPmlzUGBdVl9H3B18aBTALq3uugEVjZ1AA=="/>
+        </item>
+    </channel>
+</rss>
