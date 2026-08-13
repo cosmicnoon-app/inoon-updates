@@ -6,6 +6,16 @@
         <description>Secure software updates for iNoon.</description>
         <language>en</language>
         <item>
+            <title>1.5.5</title>
+            <pubDate>Thu, 13 Aug 2026 16:49:40 +0800</pubDate>
+            <link>https://inoon.app/</link>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.5.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Various bug fixes]]></description>
+            <enclosure url="https://inoon.app/downloads/iNoon-1.5.5-6.dmg" length="28601995" type="application/octet-stream" sparkle:edSignature="0eif1+p1pzpwZfjrbeMJa2Kf/J4JeSYA8sJjiLb79cpDqEMBzBJldIQMlec3JtJDHs8OQcnaIKFglaWQj0dQBg=="/>
+        </item>
+        <item>
             <title>1.5</title>
             <pubDate>Thu, 13 Aug 2026 15:37:36 +0800</pubDate>
             <link>https://inoon.app/</link>
@@ -28,18 +38,6 @@
 <p>Signed and notarized release for Apple silicon and Intel Macs running macOS 15.6 or later.</p>
 ]]></description>
             <enclosure url="https://inoon.app/downloads/iNoon-1.4-4.dmg" length="28588235" type="application/octet-stream" sparkle:edSignature="XOLWBHfDiSuQ35jujvBxUMLyxIxiHp9rxfDi1Ac0/LvfxmeHNdf/+6fFs9mYRI88KN4LO2996unpaz2CLzdDBQ=="/>
-        </item>
-        <item>
-            <title>1.2</title>
-            <pubDate>Sun, 02 Aug 2026 10:24:26 +0800</pubDate>
-            <link>https://inoon.app/</link>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>iNoon 1.2</h2>
-<p>Signed and notarized release for Apple silicon and Intel Macs running macOS 15.6 or later.</p>
-]]></description>
-            <enclosure url="https://inoon.app/downloads/iNoon-1.2-3.dmg" length="86181351" type="application/octet-stream" sparkle:edSignature="z3PjPToXwmDN893y0KRt4jW55fo9exyRI1vndWRsn2J9THYI52Vu2hVdY/ogc39WZrCDUrB/spWFkdDE7SgjDA=="/>
         </item>
     </channel>
 </rss>
