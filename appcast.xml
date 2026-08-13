@@ -6,6 +6,18 @@
         <description>Secure software updates for iNoon.</description>
         <language>en</language>
         <item>
+            <title>1.4</title>
+            <pubDate>Thu, 13 Aug 2026 13:01:18 +0800</pubDate>
+            <link>https://inoon.app/</link>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>iNoon 1.4</h2>
+<p>Signed and notarized release for Apple silicon and Intel Macs running macOS 15.6 or later.</p>
+]]></description>
+            <enclosure url="https://inoon.app/downloads/iNoon-1.4-4.dmg" length="28588235" type="application/octet-stream" sparkle:edSignature="XOLWBHfDiSuQ35jujvBxUMLyxIxiHp9rxfDi1Ac0/LvfxmeHNdf/+6fFs9mYRI88KN4LO2996unpaz2CLzdDBQ=="/>
+        </item>
+        <item>
             <title>1.2</title>
             <pubDate>Sun, 02 Aug 2026 10:24:26 +0800</pubDate>
             <link>https://inoon.app/</link>
