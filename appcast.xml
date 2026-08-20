@@ -6,6 +6,16 @@
         <description>Secure software updates for iNoon.</description>
         <language>en</language>
         <item>
+            <title>1.6</title>
+            <pubDate>Thu, 20 Aug 2026 19:14:40 +0800</pubDate>
+            <link>https://inoon.app/</link>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Various bug fixes]]></description>
+            <enclosure url="https://inoon.app/downloads/iNoon-1.6-11.dmg" length="29449752" type="application/octet-stream" sparkle:edSignature="vpQCUCVbZZw/SOnXSujHbys5FTSe8W0c8UJ3fcwuq95rk2cyfiJJzzPgUSoBxivGG7JPOUO6s7MxnOl5FplQAw=="/>
+        </item>
+        <item>
             <title>1.5.9</title>
             <pubDate>Thu, 20 Aug 2026 12:18:56 +0800</pubDate>
             <link>https://inoon.app/</link>
@@ -24,16 +34,6 @@
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <description sparkle:format="plain-text"><![CDATA[Various bug fixes]]></description>
             <enclosure url="https://inoon.app/downloads/iNoon-1.5.8-9.dmg" length="29310738" type="application/octet-stream" sparkle:edSignature="WB8danGsO69sXksEgDyue9NG97bw7kPFj1MCIYwMZRPxyobFyfFSVdhRZy5AIGgDpfDGrYzZ7EI+kUQK2QEdBg=="/>
-        </item>
-        <item>
-            <title>1.5.7</title>
-            <pubDate>Fri, 14 Aug 2026 20:11:38 +0800</pubDate>
-            <link>https://inoon.app/</link>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>1.5.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Various bug fixes]]></description>
-            <enclosure url="https://inoon.app/downloads/iNoon-1.5.7-8.dmg" length="28670426" type="application/octet-stream" sparkle:edSignature="gh01IArqEl56nr2J4qRY5z2NQEu2QpZeb3dwzLPmj++ajAmETgjymhRcrV/G9tGq+KMFemU88EF0UANTxv+ZCw=="/>
         </item>
     </channel>
 </rss>
