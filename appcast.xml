@@ -6,6 +6,16 @@
         <description>Secure software updates for iNoon.</description>
         <language>en</language>
         <item>
+            <title>1.6.1</title>
+            <pubDate>Sat, 22 Aug 2026 19:17:53 +0800</pubDate>
+            <link>https://inoon.app/</link>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Various bug fixes]]></description>
+            <enclosure url="https://inoon.app/downloads/iNoon-1.6.1-12.dmg" length="30577457" type="application/octet-stream" sparkle:edSignature="RW2xB2dMbeHYU4PJklKhnylQ/6eiCN8A6hjQituTQhwR4KWiHMBgct7gRyEi/oaL8OzMYWtnl96bZMcwJdmqAQ=="/>
+        </item>
+        <item>
             <title>1.6</title>
             <pubDate>Thu, 20 Aug 2026 19:14:40 +0800</pubDate>
             <link>https://inoon.app/</link>
@@ -24,16 +34,6 @@
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <description sparkle:format="plain-text"><![CDATA[Various bug fixes]]></description>
             <enclosure url="https://inoon.app/downloads/iNoon-1.5.9-10.dmg" length="29371957" type="application/octet-stream" sparkle:edSignature="BOhAEqOMndTs0k4i/EqG3om5hVNX8hkpjmylmALOQEDcvYXV4EHqs84i412WNSUDcozCVbaHAbp+4H1K3NKEBg=="/>
-        </item>
-        <item>
-            <title>1.5.8</title>
-            <pubDate>Tue, 18 Aug 2026 17:43:48 +0800</pubDate>
-            <link>https://inoon.app/</link>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>1.5.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Various bug fixes]]></description>
-            <enclosure url="https://inoon.app/downloads/iNoon-1.5.8-9.dmg" length="29310738" type="application/octet-stream" sparkle:edSignature="WB8danGsO69sXksEgDyue9NG97bw7kPFj1MCIYwMZRPxyobFyfFSVdhRZy5AIGgDpfDGrYzZ7EI+kUQK2QEdBg=="/>
         </item>
     </channel>
 </rss>
