@@ -11,3 +11,8 @@ Shared Sparkle/NetSparkle appcast and signed release metadata for iNoon on macOS
 Publishers must preserve the other platform's entries and retain the newest three entries per
 platform. A release must update from a clean, current `main` checkout and fail if `origin/main`
 moves concurrently.
+
+Windows may temporarily publish an explicitly qualified `unsigned-production-test` release. It
+still requires the production Ed25519 updater signature, but Windows will show an unknown-publisher
+warning. A later Authenticode/eSigner release uses the same appcast and a higher build number, so
+existing installations update normally without reinstalling.
