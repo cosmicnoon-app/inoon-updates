@@ -7,6 +7,15 @@
     <language>en</language>
     <item>
       <title>iNoon 1.0.0 for Windows</title>
+      <pubDate>Wed, 02 Sep 2026 13:21:31 +00:00</pubDate>
+      <link>https://inoon.app/</link>
+      <sparkle:version>1.0.0.2</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <description sparkle:format="plain-text"><![CDATA[Bug fixes]]></description>
+      <enclosure url="https://inoon.app/downloads/iNoonSetup-1.0.0-2.exe" length="121890456" type="application/vnd.microsoft.portable-executable" sparkle:version="1.0.0.2" sparkle:shortVersionString="1.0.0" sparkle:os="windows" sparkle:edSignature="YDrse20WzqPYE8TZ/Vdig2RsohoBEtyOTJLFqK6JDKnGtdH3cVYZXF+FzlviF8FvD9rBA+/uKEKAD7qSp87HBQ==" />
+    </item>
+    <item>
+      <title>iNoon 1.0.0 for Windows</title>
       <pubDate>Wed, 02 Sep 2026 08:49:01 +00:00</pubDate>
       <link>https://inoon.app/</link>
       <sparkle:version>1.0.0.1</sparkle:version>
