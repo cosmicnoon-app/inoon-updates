@@ -1,39 +1,48 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-    <channel>
-        <title>iNoon Updates</title>
-        <link>https://inoon.app/</link>
-        <description>Secure software updates for iNoon.</description>
-        <language>en</language>
-        <item>
-            <title>1.6.9</title>
-            <pubDate>Wed, 02 Sep 2026 16:36:46 +0800</pubDate>
-            <link>https://inoon.app/</link>
-            <sparkle:version>20</sparkle:version>
-            <sparkle:shortVersionString>1.6.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text">Various bug fixes</description>
-            <enclosure url="https://inoon.app/downloads/iNoon-1.6.9-20.dmg" length="32679909" type="application/octet-stream" sparkle:edSignature="hKxutGgtzhyq/A6pBGlY8ogPMQURgIc+Nz+uuiBgkE3ES4wwItYcp6NPqM77j8cHVY8/9PCnCnPIsT7jYKXtCQ==" sparkle:os="macos" />
-        </item>
-        <item>
-            <title>1.6.8</title>
-            <pubDate>Wed, 02 Sep 2026 09:14:42 +0800</pubDate>
-            <link>https://inoon.app/</link>
-            <sparkle:version>19</sparkle:version>
-            <sparkle:shortVersionString>1.6.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text">Various bug fixes</description>
-            <enclosure url="https://inoon.app/downloads/iNoon-1.6.8-19.dmg" length="32677350" type="application/octet-stream" sparkle:edSignature="Aof89dEm59EX77Zt6wBnffI9BGC7q7jaU6f5F9EEJDuHrpyTTwpOga3PQQ6kBmkj/ReOUrJdATAC5p0illJnDw==" sparkle:os="macos" />
-        </item>
-        <item>
-            <title>1.6.7</title>
-            <pubDate>Mon, 31 Aug 2026 17:27:08 +0800</pubDate>
-            <link>https://inoon.app/</link>
-            <sparkle:version>18</sparkle:version>
-            <sparkle:shortVersionString>1.6.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text">Various bug fixes</description>
-            <enclosure url="https://inoon.app/downloads/iNoon-1.6.7-18.dmg" length="32612042" type="application/octet-stream" sparkle:edSignature="UkIDz2tw2zZzI8menqaEFCvVHIYcrvrEaUaJ2tBl4QFIodKEO3OrsfMrGsTqSOHBVJrnKp2L6c1ie9zpGaOoCQ==" sparkle:os="macos" />
-        </item>
-    </channel>
+  <channel>
+    <title>iNoon Updates</title>
+    <link>https://inoon.app/</link>
+    <description>Secure software updates for iNoon.</description>
+    <language>en</language>
+    <item>
+      <title>iNoon 1.0.0 for Windows</title>
+      <pubDate>Wed, 02 Sep 2026 03:22:00 -07:00</pubDate>
+      <link>https://inoon.app/</link>
+      <sparkle:version>1.0.0.1</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <description sparkle:format="plain-text"><![CDATA[Bug fixes]]></description>
+      <enclosure url="https://inoon.app/downloads/iNoonSetup-1.0.0-1.exe" length="121874650" type="application/vnd.microsoft.portable-executable" sparkle:version="1.0.0.1" sparkle:shortVersionString="1.0.0" sparkle:os="windows" sparkle:edSignature="6I4M9KV5sHlbm8Ih0F+/sGIFB3kVH2wOPAWEtJxaeZj5399dHcFO+x9xLIp+fmiC1VG56NpnEvfgsUSUeVV6BQ==" />
+    </item>
+    <item>
+      <title>1.6.9</title>
+      <pubDate>Wed, 02 Sep 2026 16:36:46 +0800</pubDate>
+      <link>https://inoon.app/</link>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>1.6.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">Various bug fixes</description>
+      <enclosure url="https://inoon.app/downloads/iNoon-1.6.9-20.dmg" length="32679909" type="application/octet-stream" sparkle:edSignature="hKxutGgtzhyq/A6pBGlY8ogPMQURgIc+Nz+uuiBgkE3ES4wwItYcp6NPqM77j8cHVY8/9PCnCnPIsT7jYKXtCQ==" sparkle:os="macos" />
+    </item>
+    <item>
+      <title>1.6.8</title>
+      <pubDate>Wed, 02 Sep 2026 09:14:42 +0800</pubDate>
+      <link>https://inoon.app/</link>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>1.6.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">Various bug fixes</description>
+      <enclosure url="https://inoon.app/downloads/iNoon-1.6.8-19.dmg" length="32677350" type="application/octet-stream" sparkle:edSignature="Aof89dEm59EX77Zt6wBnffI9BGC7q7jaU6f5F9EEJDuHrpyTTwpOga3PQQ6kBmkj/ReOUrJdATAC5p0illJnDw==" sparkle:os="macos" />
+    </item>
+    <item>
+      <title>1.6.7</title>
+      <pubDate>Mon, 31 Aug 2026 17:27:08 +0800</pubDate>
+      <link>https://inoon.app/</link>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>1.6.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+      <description sparkle:format="plain-text">Various bug fixes</description>
+      <enclosure url="https://inoon.app/downloads/iNoon-1.6.7-18.dmg" length="32612042" type="application/octet-stream" sparkle:edSignature="UkIDz2tw2zZzI8menqaEFCvVHIYcrvrEaUaJ2tBl4QFIodKEO3OrsfMrGsTqSOHBVJrnKp2L6c1ie9zpGaOoCQ==" sparkle:os="macos" />
+    </item>
+  </channel>
 </rss>
