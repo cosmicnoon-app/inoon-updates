@@ -7,6 +7,15 @@
     <language>en</language>
     <item>
       <title>iNoon 1.0.0 for Windows</title>
+      <pubDate>Fri, 04 Sep 2026 11:32:54 +00:00</pubDate>
+      <link>https://inoon.app/</link>
+      <sparkle:version>1.0.0.9</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <description sparkle:format="plain-text"><![CDATA[Bug fixes]]></description>
+      <enclosure url="https://inoon.app/downloads/iNoonSetup-1.0.0-9.exe" length="121919383" type="application/vnd.microsoft.portable-executable" sparkle:version="1.0.0.9" sparkle:shortVersionString="1.0.0" sparkle:os="windows" sparkle:edSignature="UWRWDvJcZge5b2gFMmNioLBXdwtzni+TW3R5StekxBRyLb6qBOmHkQo7Xpkp2aWkXFd1fD7fBjhiAs6b9PiSDQ==" />
+    </item>
+    <item>
+      <title>iNoon 1.0.0 for Windows</title>
       <pubDate>Fri, 04 Sep 2026 08:10:45 +00:00</pubDate>
       <link>https://inoon.app/</link>
       <sparkle:version>1.0.0.8</sparkle:version>
@@ -22,15 +31,6 @@
       <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
       <description sparkle:format="plain-text"><![CDATA[Bug fixes]]></description>
       <enclosure url="https://inoon.app/downloads/iNoonSetup-1.0.0-7.exe" length="121894264" type="application/vnd.microsoft.portable-executable" sparkle:version="1.0.0.7" sparkle:shortVersionString="1.0.0" sparkle:os="windows" sparkle:edSignature="4krNN9L9PP9KiFZIoiORfL/e4g4izqBvA0pFX26vaz8oV0dPkPiAnpU7sRW2clJgxCl9BzN658/2RmB+c2xSDw==" />
-    </item>
-    <item>
-      <title>iNoon 1.0.0 for Windows</title>
-      <pubDate>Thu, 03 Sep 2026 07:50:22 +00:00</pubDate>
-      <link>https://inoon.app/</link>
-      <sparkle:version>1.0.0.6</sparkle:version>
-      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-      <description sparkle:format="plain-text"><![CDATA[Bug fixes]]></description>
-      <enclosure url="https://inoon.app/downloads/iNoonSetup-1.0.0-6.exe" length="121917760" type="application/vnd.microsoft.portable-executable" sparkle:version="1.0.0.6" sparkle:shortVersionString="1.0.0" sparkle:os="windows" sparkle:edSignature="Dfj45c3LyhmtSdO5483yZHw3su83iiypbu4VednY1Hi0stqjpCkovHfMEMO6mD2nCN/xn7D19Uv0qm47rJ44AQ==" />
     </item>
   </channel>
 </rss>
