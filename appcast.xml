@@ -13,7 +13,7 @@
             <sparkle:shortVersionString>1.7.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <description sparkle:format="plain-text">Various bug fixes</description>
-            <enclosure url="https://inoon.app/downloads/iNoon-1.7.7-28.dmg" length="33851567" type="application/octet-stream" sparkle:edSignature="8gms3Rw++XrokRVUrzbDHLPTnCsQZKg9YKi1VtIMftWd8mgaVRJI+vP53HVcs1iq1ag7OcPtrHAyZBA5oS0UDA==" sparkle:os="macos" />
+            <enclosure url="https://inoon.app/downloads/iNoon-1.7.7-28.dmg" length="33860294" type="application/octet-stream" sparkle:edSignature="7Y1lx0oq+JRRQfq2j0SNHN9iGVT+Vj+Yy5VhjHb8SXITi0++qE8Rlsv/1ZaBXRBkm+G0iv39uD6yjDNviLrwDA==" sparkle:os="macos" />
         </item>
         <item>
             <title>1.7.6</title>
