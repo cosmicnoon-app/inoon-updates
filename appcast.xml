@@ -6,6 +6,16 @@
         <description>Secure software updates for iNoon.</description>
         <language>en</language>
         <item>
+            <title>1.9</title>
+            <pubDate>Fri, 25 Sep 2026 18:13:25 +0800</pubDate>
+            <link>https://inoon.app/</link>
+            <sparkle:version>32</sparkle:version>
+            <sparkle:shortVersionString>1.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text">Various bug fixes</description>
+            <enclosure url="https://inoon.app/downloads/iNoon-1.9-32.dmg" length="33955745" type="application/octet-stream" sparkle:edSignature="UcdQj4rUzbZ67rYk2N+0snDbOBTqMsrEHe6cye97MH6LRr/CVvTEQ1Al3uXsJd30/89t6NTVSmfaPz2EFoD0Dg==" sparkle:os="macos" />
+        </item>
+        <item>
             <title>1.8</title>
             <pubDate>Thu, 24 Sep 2026 10:16:52 +0800</pubDate>
             <link>https://inoon.app/</link>
@@ -24,16 +34,6 @@
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <description sparkle:format="plain-text">Various bug fixes</description>
             <enclosure url="https://inoon.app/downloads/iNoon-1.7.9-30.dmg" length="33860230" type="application/octet-stream" sparkle:edSignature="jr4PIJqJw6yhRncw7m0bttzQOP1mUkt8GEEbCDuUf8iJUCAdpvH8gREAWM9esfie0z8UdGPan12JUYyDT/lyAA==" sparkle:os="macos" />
-        </item>
-        <item>
-            <title>1.7.8</title>
-            <pubDate>Fri, 18 Sep 2026 12:51:16 +0800</pubDate>
-            <link>https://inoon.app/</link>
-            <sparkle:version>29</sparkle:version>
-            <sparkle:shortVersionString>1.7.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text">Various bug fixes</description>
-            <enclosure url="https://inoon.app/downloads/iNoon-1.7.8-29.dmg" length="33863939" type="application/octet-stream" sparkle:edSignature="O5P9WKFQwYbFKy8b/sXPsV2Y5ngYiOGxRWoFeoj1WlSRnXfq25PBguGw25hTpSt6yFt+E2PN/WUc8OWf3gbODg==" sparkle:os="macos" />
         </item>
     </channel>
 </rss>
