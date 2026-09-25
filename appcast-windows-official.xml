@@ -6,6 +6,17 @@
     <description>Secure software updates for iNoon on Windows.</description>
     <item>
       <title>iNoon 1.0.0 for Windows</title>
+      <pubDate>Fri, 25 Sep 2026 12:56:00 +00:00</pubDate>
+      <link>https://inoon.app/</link>
+      <sparkle:version>1.0.0.22</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <description sparkle:format="plain-text"><![CDATA[- Attach images, PDFs, and text files to Agent conversations.
+- More reliable Agent providers and model selection.
+- Clearer backup and update progress, plus interface fixes.]]></description>
+      <enclosure url="https://inoon.app/downloads/iNoonSetup-1.0.0-22.exe" length="161516288" type="application/vnd.microsoft.portable-executable" sparkle:version="1.0.0.22" sparkle:shortVersionString="1.0.0" sparkle:os="windows" sparkle:edSignature="yreFiHPzFKnKTuL7CrHbcUMgv8EX0eGm1YP94lZRHD6Lhjs/lebmksMy/jnVJ2gcYDihoahnFPHm6p23QSElAQ==" />
+    </item>
+    <item>
+      <title>iNoon 1.0.0 for Windows</title>
       <pubDate>Thu, 17 Sep 2026 03:47:23 +00:00</pubDate>
       <link>https://inoon.app/</link>
       <sparkle:version>1.0.0.21</sparkle:version>
