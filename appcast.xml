@@ -6,6 +6,16 @@
         <description>Secure software updates for iNoon.</description>
         <language>en</language>
         <item>
+            <title>2.0</title>
+            <pubDate>Wed, 30 Sep 2026 14:45:55 +0800</pubDate>
+            <link>https://inoon.app/</link>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text">Various bug fixes</description>
+            <enclosure url="https://inoon.app/downloads/iNoon-2.0-33.dmg" length="33986215" type="application/octet-stream" sparkle:edSignature="JnwB0NW0CuyFuJTqZgPZst1YWxp4siGHY6AlqTWgF4cnBOo1kko9d8w/cVWp1oCMaaSv8fhfAprVh3Q2HP9yCQ==" sparkle:os="macos" />
+        </item>
+        <item>
             <title>1.9</title>
             <pubDate>Fri, 25 Sep 2026 18:13:25 +0800</pubDate>
             <link>https://inoon.app/</link>
@@ -24,16 +34,6 @@
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <description sparkle:format="plain-text">Various bug fixes</description>
             <enclosure url="https://inoon.app/downloads/iNoon-1.8-31.dmg" length="33865143" type="application/octet-stream" sparkle:edSignature="lTMshR4NnWCnev1a+wQq9g7lCc468OqRJYBSEtCRva5Hcqdk71av+ySj3LLWNkENZ5K0ozjpUICk0anxKnY9DQ==" sparkle:os="macos" />
-        </item>
-        <item>
-            <title>1.7.9</title>
-            <pubDate>Fri, 18 Sep 2026 13:29:47 +0800</pubDate>
-            <link>https://inoon.app/</link>
-            <sparkle:version>30</sparkle:version>
-            <sparkle:shortVersionString>1.7.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text">Various bug fixes</description>
-            <enclosure url="https://inoon.app/downloads/iNoon-1.7.9-30.dmg" length="33860230" type="application/octet-stream" sparkle:edSignature="jr4PIJqJw6yhRncw7m0bttzQOP1mUkt8GEEbCDuUf8iJUCAdpvH8gREAWM9esfie0z8UdGPan12JUYyDT/lyAA==" sparkle:os="macos" />
         </item>
     </channel>
 </rss>
