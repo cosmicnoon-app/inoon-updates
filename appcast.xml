@@ -6,6 +6,27 @@
         <description>Secure software updates for iNoon.</description>
         <language>en</language>
         <item>
+            <title>2.2</title>
+            <pubDate>Sat, 03 Oct 2026 15:19:13 +0800</pubDate>
+            <link>https://inoon.app/</link>
+            <sparkle:version>35</sparkle:version>
+            <sparkle:shortVersionString>2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text">New: Folder Sync
+
+Sync Mac folders with compatible app folders on your iPhone or iPad.
+
+- Choose add-and-update, one-way mirror or two-way sync.
+- Use USB or Wi-Fi, reserving larger transfers for USB.
+- Sync automatically on Mac folder changes and device reconnection, or manually with Sync Now.
+
+iNoon must remain open. Mirror mode deletes extra destination files.
+
+Plus bug fixes and AI language improvements.
+</description>
+            <enclosure url="https://inoon.app/downloads/iNoon-2.2-35.dmg" length="34908655" type="application/octet-stream" sparkle:edSignature="SCL8wxZl3mHnMd+m64OlFphBzJ28ET0pVa3Qv8Uwip/msezNwM+648Yumfrx+KaAUnM/M4A5olPTM656YMWjDw==" sparkle:os="macos" />
+        </item>
+        <item>
             <title>2.1</title>
             <pubDate>Sat, 03 Oct 2026 14:38:19 +0800</pubDate>
             <link>https://inoon.app/</link>
@@ -24,16 +45,6 @@
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
             <description sparkle:format="plain-text">Various bug fixes</description>
             <enclosure url="https://inoon.app/downloads/iNoon-2.0-33.dmg" length="33986215" type="application/octet-stream" sparkle:edSignature="JnwB0NW0CuyFuJTqZgPZst1YWxp4siGHY6AlqTWgF4cnBOo1kko9d8w/cVWp1oCMaaSv8fhfAprVh3Q2HP9yCQ==" sparkle:os="macos" />
-        </item>
-        <item>
-            <title>1.9</title>
-            <pubDate>Fri, 25 Sep 2026 18:13:25 +0800</pubDate>
-            <link>https://inoon.app/</link>
-            <sparkle:version>32</sparkle:version>
-            <sparkle:shortVersionString>1.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text">Various bug fixes</description>
-            <enclosure url="https://inoon.app/downloads/iNoon-1.9-32.dmg" length="33955745" type="application/octet-stream" sparkle:edSignature="UcdQj4rUzbZ67rYk2N+0snDbOBTqMsrEHe6cye97MH6LRr/CVvTEQ1Al3uXsJd30/89t6NTVSmfaPz2EFoD0Dg==" sparkle:os="macos" />
         </item>
     </channel>
 </rss>
