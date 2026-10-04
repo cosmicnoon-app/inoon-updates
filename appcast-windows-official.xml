@@ -6,6 +6,17 @@
     <description>Secure software updates for iNoon on Windows.</description>
     <item>
       <title>iNoon 1.0.0 for Windows</title>
+      <pubDate>Sun, 04 Oct 2026 07:39:25 +00:00</pubDate>
+      <link>https://inoon.app/</link>
+      <sparkle:version>1.0.0.23</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <description sparkle:format="plain-text"><![CDATA[- Sync PC folders with compatible iPhone and iPad app folders: add-and-update, one-way mirror or two-way sync over USB or Wi-Fi. Keep iNoon open for automatic sync; mirror mode deletes extra destination files.
+- AI replies now follow the app language, with clearer translated provider feedback.
+- Bug fixes and reliability improvements.]]></description>
+      <enclosure url="https://inoon.app/downloads/iNoonSetup-1.0.0-23.exe" length="161680832" type="application/vnd.microsoft.portable-executable" sparkle:version="1.0.0.23" sparkle:shortVersionString="1.0.0" sparkle:os="windows" sparkle:edSignature="9VioV7eGG6d1oypSKrsSk+C0zbYtbTzewk3QoBTYh0YeOlKqSWfkNhV1mSOAOdse8BvZYUuZB2hhAOnRRpvSDQ==" />
+    </item>
+    <item>
+      <title>iNoon 1.0.0 for Windows</title>
       <pubDate>Fri, 25 Sep 2026 12:56:00 +00:00</pubDate>
       <link>https://inoon.app/</link>
       <sparkle:version>1.0.0.22</sparkle:version>
@@ -25,15 +36,6 @@
 - Better backups, passcode prompts, and device updates.
 - Stability fixes and refinements across the app.]]></description>
       <enclosure url="https://inoon.app/downloads/iNoonSetup-1.0.0-21.exe" length="161521552" type="application/vnd.microsoft.portable-executable" sparkle:version="1.0.0.21" sparkle:shortVersionString="1.0.0" sparkle:os="windows" sparkle:edSignature="x5jyk07EmF2Ock5nYwmMTTDBGgONkOJkFsSEcTdOXtCgHjeqUW7yg4o9zIPFd/atKruRZi2ZNrBZssIgSUPqAw==" />
-    </item>
-    <item>
-      <title>iNoon 1.0.0 for Windows</title>
-      <pubDate>Tue, 08 Sep 2026 06:04:26 +00:00</pubDate>
-      <link>https://inoon.app/</link>
-      <sparkle:version>1.0.0.20</sparkle:version>
-      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-      <description sparkle:format="plain-text"><![CDATA[First official release of iNoon for windows.]]></description>
-      <enclosure url="https://inoon.app/downloads/iNoonSetup-1.0.0-20.exe" length="122004168" type="application/vnd.microsoft.portable-executable" sparkle:version="1.0.0.20" sparkle:shortVersionString="1.0.0" sparkle:os="windows" sparkle:edSignature="jx7FY6YuakpwebqgWw9zrIuMEKlpYRkfRwDs4q3PqrBppOYzntg4geCk07dKgrRrg5sJzVF27+ouuYbmjGo4CQ==" />
     </item>
   </channel>
 </rss>
