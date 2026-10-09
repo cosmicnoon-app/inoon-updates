@@ -6,6 +6,17 @@
         <description>Secure software updates for iNoon.</description>
         <language>en</language>
         <item>
+            <title>2.7</title>
+            <pubDate>Fri, 09 Oct 2026 16:26:30 +0800</pubDate>
+            <link>https://inoon.app/</link>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>2.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text">- Fixes a bug when WhatsApp messages were not showing right after a backup.
+- Various bug fixes.</description>
+            <enclosure url="https://inoon.app/downloads/iNoon-2.7-40.dmg" length="35632921" type="application/octet-stream" sparkle:edSignature="84vU3dnJ2XFdP5Rc5pB7VwL03iKNeZKUBfzllOF6LMydeLcTbgoxa+nSDyPlX4R3F/jsQ8r9OQVqqpwt0eD8BA==" sparkle:os="macos" />
+        </item>
+        <item>
             <title>2.6</title>
             <pubDate>Fri, 09 Oct 2026 13:56:47 +0800</pubDate>
             <link>https://inoon.app/</link>
@@ -26,27 +37,6 @@
             <description sparkle:format="plain-text">- Fixes a bug when WhatsApp messages were not showing right after a backup.
 - Various bug fixes.</description>
             <enclosure url="https://inoon.app/downloads/iNoon-2.5-38.dmg" length="35326529" type="application/octet-stream" sparkle:edSignature="zEdJMa9GlgFg2ZGxbOJKytWgUFhrOnpsJul2oawAOsCfgiWLJY7I60eYdaypzpZkoZ0OPMszWn061W33Z+cJCg==" sparkle:os="macos" />
-        </item>
-        <item>
-            <title>2.4</title>
-            <pubDate>Sun, 04 Oct 2026 17:51:58 +0800</pubDate>
-            <link>https://inoon.app/</link>
-            <sparkle:version>37</sparkle:version>
-            <sparkle:shortVersionString>2.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text">New: Folder Sync
-
-Sync Mac folders with compatible app folders on your iPhone or iPad.
-
-- Choose add-and-update, one-way mirror or two-way sync.
-- Use USB or Wi-Fi, reserving larger transfers for USB.
-- Sync automatically on Mac folder changes and device reconnection, or manually with Sync Now.
-
-iNoon must remain open. Mirror mode deletes extra destination files.
-
-Plus bug fixes and AI language improvements.
-</description>
-            <enclosure url="https://inoon.app/downloads/iNoon-2.4-37.dmg" length="34925648" type="application/octet-stream" sparkle:edSignature="SRu+Qv8A+LVWQqGMVBw7VUup9t2ZDO39tsVULsWutbGMcA70N6c6DfJv1bHZeZ/gIIiJx7LfYMukgjm16fqfAA==" sparkle:os="macos" />
         </item>
     </channel>
 </rss>
