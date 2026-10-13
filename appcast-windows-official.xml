@@ -5,6 +5,38 @@
     <link>https://inoon.app/</link>
     <description>Secure software updates for iNoon on Windows.</description>
     <item>
+      <title>iNoon 1.0.1 for Windows</title>
+      <pubDate>Tue, 13 Oct 2026 03:08:44 +00:00</pubDate>
+      <link>https://inoon.app/</link>
+      <sparkle:version>1.0.1.1</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <description xml:lang="en" sparkle:format="plain-text"><![CDATA[- Clearer backup progress, time estimates and passcode prompts.
+- Safer backup preparation and more reliable retries after permission changes.
+- Localized update notes and cleaner message previews.]]></description>
+      <description xml:lang="de" sparkle:format="plain-text"><![CDATA[- Klarerer Backup-Fortschritt, Zeitschätzungen und Aufforderungen zur Codeeingabe.
+- Sicherere Backup-Vorbereitung und zuverlässigere Wiederholungsversuche nach Änderungen der Zugriffsrechte.
+- Übersetzte Update-Hinweise und bereinigte Nachrichtenvorschauen.]]></description>
+      <description xml:lang="es" sparkle:format="plain-text"><![CDATA[- Progreso de copia de seguridad, estimaciones de tiempo y solicitudes de código más claros.
+- Preparación de copias más segura y reintentos más fiables tras cambiar los permisos.
+- Notas de actualización traducidas y vistas previas de mensajes más limpias.]]></description>
+      <description xml:lang="fr" sparkle:format="plain-text"><![CDATA[- Une progression de sauvegarde, des estimations de durée et des demandes de code plus claires.
+- Une préparation des sauvegardes plus sûre et des tentatives plus fiables après modification des autorisations.
+- Des notes de mise à jour traduites et des aperçus de messages sans caractères parasites.]]></description>
+      <description xml:lang="it" sparkle:format="plain-text"><![CDATA[- Avanzamento del backup, stime del tempo e richieste del codice più chiari.
+- Preparazione del backup più sicura e nuovi tentativi più affidabili dopo modifiche ai permessi.
+- Note di aggiornamento tradotte e anteprime dei messaggi più pulite.]]></description>
+      <description xml:lang="ja" sparkle:format="plain-text"><![CDATA[- バックアップの進捗、残り時間の目安、パスコードの入力案内をわかりやすくしました。
+- バックアップの準備をより安全にし、アクセス許可の変更後も確実に再試行できるようにしました。
+- 更新内容を各言語で表示し、メッセージのプレビューに不要な文字が出る問題を修正しました。]]></description>
+      <description xml:lang="pt" sparkle:format="plain-text"><![CDATA[- Progresso do backup, estimativas de tempo e solicitações de código mais claros.
+- Preparação de backup mais segura e novas tentativas mais confiáveis após alterações de permissões.
+- Notas de atualização traduzidas e prévias de mensagens mais limpas.]]></description>
+      <description xml:lang="zh-Hans" sparkle:format="plain-text"><![CDATA[- 更清晰的备份进度、时间估算和密码输入提示。
+- 更安全的备份准备，以及更可靠的权限变更后重试。
+- 本地化的更新说明，并修复消息预览中的多余字符。]]></description>
+      <enclosure url="https://inoon.app/downloads/iNoonSetup-1.0.1-1.exe" length="161795112" type="application/vnd.microsoft.portable-executable" sparkle:version="1.0.1.1" sparkle:shortVersionString="1.0.1" sparkle:os="windows" sparkle:edSignature="B0jWg4L+olgwEPI+06sPFkuRSER2/RwzR2nBN3aTDoorGGuyyeOy0DY4HHimZHyGIDOlAmENkvQZkuiUTQ9rBw==" />
+    </item>
+    <item>
       <title>iNoon 1.0.0 for Windows</title>
       <pubDate>Fri, 09 Oct 2026 10:31:36 +00:00</pubDate>
       <link>https://inoon.app/</link>
@@ -25,17 +57,6 @@
 - AI replies now follow the app language, with clearer translated provider feedback.
 - Bug fixes and reliability improvements.]]></description>
       <enclosure url="https://inoon.app/downloads/iNoonSetup-1.0.0-23.exe" length="161680832" type="application/vnd.microsoft.portable-executable" sparkle:version="1.0.0.23" sparkle:shortVersionString="1.0.0" sparkle:os="windows" sparkle:edSignature="9VioV7eGG6d1oypSKrsSk+C0zbYtbTzewk3QoBTYh0YeOlKqSWfkNhV1mSOAOdse8BvZYUuZB2hhAOnRRpvSDQ==" />
-    </item>
-    <item>
-      <title>iNoon 1.0.0 for Windows</title>
-      <pubDate>Fri, 25 Sep 2026 12:56:00 +00:00</pubDate>
-      <link>https://inoon.app/</link>
-      <sparkle:version>1.0.0.22</sparkle:version>
-      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-      <description sparkle:format="plain-text"><![CDATA[- Attach images, PDFs, and text files to Agent conversations.
-- More reliable Agent providers and model selection.
-- Clearer backup and update progress, plus interface fixes.]]></description>
-      <enclosure url="https://inoon.app/downloads/iNoonSetup-1.0.0-22.exe" length="161516288" type="application/vnd.microsoft.portable-executable" sparkle:version="1.0.0.22" sparkle:shortVersionString="1.0.0" sparkle:os="windows" sparkle:edSignature="yreFiHPzFKnKTuL7CrHbcUMgv8EX0eGm1YP94lZRHD6Lhjs/lebmksMy/jnVJ2gcYDihoahnFPHm6p23QSElAQ==" />
     </item>
   </channel>
 </rss>
