@@ -6,13 +6,13 @@
         <description>Secure software updates for iNoon.</description>
         <language>en</language>
         <item>
-            <title>2.9</title>
-            <pubDate>Thu, 15 Oct 2026 11:05:16 +0800</pubDate>
+            <title>3.0</title>
+            <pubDate>Tue, 20 Oct 2026 12:04:29 +0800</pubDate>
             <link>https://inoon.app/</link>
-            <sparkle:version>42</sparkle:version>
-            <sparkle:shortVersionString>2.9</sparkle:shortVersionString>
+            <sparkle:version>43</sparkle:version>
+            <sparkle:shortVersionString>3.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://inoon.app/downloads/iNoon-2.9-42.dmg" length="35807639" type="application/octet-stream" sparkle:edSignature="lqXGwHYzxZJh+q9EHeNwbTlJaBnNRjOAP0pSr3u3KRC+MSCMBWkA+ui4VdMZ0SnTbZKqYTwoEYqaCm1E3tAbCw==" sparkle:os="macos" />
+            <enclosure url="https://inoon.app/downloads/iNoon-3.0-43.dmg" length="36163253" type="application/octet-stream" sparkle:edSignature="uS9f/oh8D6qcSa9fZybTNy6V2TVBe/hxC3k/e9h+CdNl8j8GWYTsEytcwD/f9ZS4gDPRinehxd/S90ACTLF5Dw==" sparkle:os="macos" />
         <description xml:lang="en" sparkle:format="plain-text">- Clearer error messages when loading backup data.
 - Fixes for photo and music operations.
 - General bug fixes and stability improvements.</description><description xml:lang="de" sparkle:format="plain-text">- Verständlichere Fehlermeldungen beim Laden von Backup-Daten.
@@ -30,6 +30,39 @@
 - Correções gerais de erros e melhorias de estabilidade.</description><description xml:lang="zh-Hans" sparkle:format="plain-text">- 备份数据加载时的错误提示更加清晰。
 - 修复了照片和音乐操作中的问题。
 - 修复其他问题并提升稳定性。</description></item>
+        <item>
+            <title>2.9</title>
+            <pubDate>Thu, 15 Oct 2026 11:05:16 +0800</pubDate>
+            <link>https://inoon.app/</link>
+            <sparkle:version>42</sparkle:version>
+            <sparkle:shortVersionString>2.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://inoon.app/downloads/iNoon-2.9-42.dmg" length="35807639" type="application/octet-stream" sparkle:edSignature="lqXGwHYzxZJh+q9EHeNwbTlJaBnNRjOAP0pSr3u3KRC+MSCMBWkA+ui4VdMZ0SnTbZKqYTwoEYqaCm1E3tAbCw==" sparkle:os="macos" />
+            <description xml:lang="en" sparkle:format="plain-text">- Clearer error messages when loading backup data.
+- Fixes for photo and music operations.
+- General bug fixes and stability improvements.</description>
+            <description xml:lang="de" sparkle:format="plain-text">- Verständlichere Fehlermeldungen beim Laden von Backup-Daten.
+- Fehlerbehebungen bei Foto- und Musikvorgängen.
+- Allgemeine Fehlerbehebungen und Verbesserungen der Stabilität.</description>
+            <description xml:lang="es" sparkle:format="plain-text">- Mensajes de error más claros al cargar datos de copias de seguridad.
+- Correcciones en las operaciones con fotos y música.
+- Correcciones generales de errores y mejoras de estabilidad.</description>
+            <description xml:lang="fr" sparkle:format="plain-text">- Des messages d’erreur plus clairs lors du chargement des données de sauvegarde.
+- Des corrections pour les opérations sur les photos et la musique.
+- Diverses corrections de bugs et améliorations de la stabilité.</description>
+            <description xml:lang="it" sparkle:format="plain-text">- Messaggi di errore più chiari durante il caricamento dei dati di backup.
+- Correzioni per le operazioni su foto e musica.
+- Correzioni generali e miglioramenti della stabilità.</description>
+            <description xml:lang="ja" sparkle:format="plain-text">- バックアップデータの読み込み時に表示されるエラーメッセージをわかりやすくしました。
+- 写真や音楽の操作に関する不具合を修正しました。
+- その他の不具合を修正し、安定性を改善しました。</description>
+            <description xml:lang="pt" sparkle:format="plain-text">- Mensagens de erro mais claras ao carregar dados de cópias de segurança.
+- Correções nas operações com fotografias e música.
+- Correções gerais de erros e melhorias de estabilidade.</description>
+            <description xml:lang="zh-Hans" sparkle:format="plain-text">- 备份数据加载时的错误提示更加清晰。
+- 修复了照片和音乐操作中的问题。
+- 修复其他问题并提升稳定性。</description>
+        </item>
         <item>
             <title>2.8</title>
             <pubDate>Mon, 12 Oct 2026 20:27:51 +0800</pubDate>
@@ -78,17 +111,6 @@
 - 大型备份会显示警告，并可选择不再显示此类警告；通过 Wi-Fi 进行大型首次备份前，会要求您确认。
 - 删除备份时，备份状态现在会正确更新。
 - 软件更新的新功能与改进说明现已支持所有受支持的语言。</description>
-        </item>
-        <item>
-            <title>2.7</title>
-            <pubDate>Fri, 09 Oct 2026 16:26:30 +0800</pubDate>
-            <link>https://inoon.app/</link>
-            <sparkle:version>40</sparkle:version>
-            <sparkle:shortVersionString>2.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text">- Fixes a bug when WhatsApp messages were not showing right after a backup.
-- Various bug fixes.</description>
-            <enclosure url="https://inoon.app/downloads/iNoon-2.7-40.dmg" length="35632921" type="application/octet-stream" sparkle:edSignature="84vU3dnJ2XFdP5Rc5pB7VwL03iKNeZKUBfzllOF6LMydeLcTbgoxa+nSDyPlX4R3F/jsQ8r9OQVqqpwt0eD8BA==" sparkle:os="macos" />
         </item>
     </channel>
 </rss>
