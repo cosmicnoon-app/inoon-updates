@@ -6,13 +6,13 @@
         <description>Secure software updates for iNoon.</description>
         <language>en</language>
         <item>
-            <title>3.0</title>
-            <pubDate>Tue, 20 Oct 2026 12:04:29 +0800</pubDate>
+            <title>3.1</title>
+            <pubDate>Wed, 21 Oct 2026 16:13:47 +0800</pubDate>
             <link>https://inoon.app/</link>
-            <sparkle:version>43</sparkle:version>
-            <sparkle:shortVersionString>3.0</sparkle:shortVersionString>
+            <sparkle:version>44</sparkle:version>
+            <sparkle:shortVersionString>3.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://inoon.app/downloads/iNoon-3.0-43.dmg" length="36163253" type="application/octet-stream" sparkle:edSignature="uS9f/oh8D6qcSa9fZybTNy6V2TVBe/hxC3k/e9h+CdNl8j8GWYTsEytcwD/f9ZS4gDPRinehxd/S90ACTLF5Dw==" sparkle:os="macos" />
+            <enclosure url="https://inoon.app/downloads/iNoon-3.1-44.dmg" length="36191446" type="application/octet-stream" sparkle:edSignature="YtBmD6l3j5cb13MsqKBsct9+CGFNMfu34DZkQ72DWM8P+nFMZwzAXw6aSDxzf1yP1VDdNs/ZPETLqiuqRSZ7AQ==" sparkle:os="macos" />
         <description xml:lang="en" sparkle:format="plain-text">- Clearer error messages when loading backup data.
 - Fixes for photo and music operations.
 - General bug fixes and stability improvements.</description><description xml:lang="de" sparkle:format="plain-text">- Verständlichere Fehlermeldungen beim Laden von Backup-Daten.
@@ -30,6 +30,39 @@
 - Correções gerais de erros e melhorias de estabilidade.</description><description xml:lang="zh-Hans" sparkle:format="plain-text">- 备份数据加载时的错误提示更加清晰。
 - 修复了照片和音乐操作中的问题。
 - 修复其他问题并提升稳定性。</description></item>
+        <item>
+            <title>3.0</title>
+            <pubDate>Tue, 20 Oct 2026 12:04:29 +0800</pubDate>
+            <link>https://inoon.app/</link>
+            <sparkle:version>43</sparkle:version>
+            <sparkle:shortVersionString>3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://inoon.app/downloads/iNoon-3.0-43.dmg" length="36163253" type="application/octet-stream" sparkle:edSignature="uS9f/oh8D6qcSa9fZybTNy6V2TVBe/hxC3k/e9h+CdNl8j8GWYTsEytcwD/f9ZS4gDPRinehxd/S90ACTLF5Dw==" sparkle:os="macos" />
+            <description xml:lang="en" sparkle:format="plain-text">- Clearer error messages when loading backup data.
+- Fixes for photo and music operations.
+- General bug fixes and stability improvements.</description>
+            <description xml:lang="de" sparkle:format="plain-text">- Verständlichere Fehlermeldungen beim Laden von Backup-Daten.
+- Fehlerbehebungen bei Foto- und Musikvorgängen.
+- Allgemeine Fehlerbehebungen und Verbesserungen der Stabilität.</description>
+            <description xml:lang="es" sparkle:format="plain-text">- Mensajes de error más claros al cargar datos de copias de seguridad.
+- Correcciones en las operaciones con fotos y música.
+- Correcciones generales de errores y mejoras de estabilidad.</description>
+            <description xml:lang="fr" sparkle:format="plain-text">- Des messages d’erreur plus clairs lors du chargement des données de sauvegarde.
+- Des corrections pour les opérations sur les photos et la musique.
+- Diverses corrections de bugs et améliorations de la stabilité.</description>
+            <description xml:lang="it" sparkle:format="plain-text">- Messaggi di errore più chiari durante il caricamento dei dati di backup.
+- Correzioni per le operazioni su foto e musica.
+- Correzioni generali e miglioramenti della stabilità.</description>
+            <description xml:lang="ja" sparkle:format="plain-text">- バックアップデータの読み込み時に表示されるエラーメッセージをわかりやすくしました。
+- 写真や音楽の操作に関する不具合を修正しました。
+- その他の不具合を修正し、安定性を改善しました。</description>
+            <description xml:lang="pt" sparkle:format="plain-text">- Mensagens de erro mais claras ao carregar dados de cópias de segurança.
+- Correções nas operações com fotografias e música.
+- Correções gerais de erros e melhorias de estabilidade.</description>
+            <description xml:lang="zh-Hans" sparkle:format="plain-text">- 备份数据加载时的错误提示更加清晰。
+- 修复了照片和音乐操作中的问题。
+- 修复其他问题并提升稳定性。</description>
+        </item>
         <item>
             <title>2.9</title>
             <pubDate>Thu, 15 Oct 2026 11:05:16 +0800</pubDate>
@@ -62,55 +95,6 @@
             <description xml:lang="zh-Hans" sparkle:format="plain-text">- 备份数据加载时的错误提示更加清晰。
 - 修复了照片和音乐操作中的问题。
 - 修复其他问题并提升稳定性。</description>
-        </item>
-        <item>
-            <title>2.8</title>
-            <pubDate>Mon, 12 Oct 2026 20:27:51 +0800</pubDate>
-            <link>https://inoon.app/</link>
-            <sparkle:version>41</sparkle:version>
-            <sparkle:shortVersionString>2.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://inoon.app/downloads/iNoon-2.8-41.dmg" length="35746456" type="application/octet-stream" sparkle:edSignature="F42L2YvJaVTuEe9E/o5u88Gik0Rn1Ibv2W5Tjclvt7z9F4pojUI0EjBzJPsB9IokoYOEaWcHdx4noVtaqi5OAg==" sparkle:os="macos" />
-            <description xml:lang="en" sparkle:format="plain-text">- Clearer backup stages, measured transfer progress, and estimates of the time remaining when available.
-- Earlier passcode authorization while backup preparation continues in the background.
-- Warnings for large backups, with an option to hide future warnings, and confirmation before a large first backup over Wi-Fi.
-- Backup status now updates correctly when a backup is deleted.
-- What's New in software updates is now available in all supported languages.</description>
-            <description xml:lang="de" sparkle:format="plain-text">- Übersichtlichere Backup-Phasen, gemessener Übertragungsfortschritt und Angaben zur verbleibenden Zeit, sobald diese verfügbar sind.
-- Frühere Autorisierung per Gerätecode, während die Backup-Vorbereitung im Hintergrund weiterläuft.
-- Warnungen bei großen Backups mit der Option, künftige Warnungen auszublenden, sowie eine Bestätigung vor einem großen ersten Backup über WLAN.
-- Der Backup-Status wird jetzt beim Löschen eines Backups korrekt aktualisiert.
-- Die Neuerungen bei Softwareupdates sind jetzt in allen unterstützten Sprachen verfügbar.</description>
-            <description xml:lang="es" sparkle:format="plain-text">- Etapas de copia de seguridad más claras, progreso de transferencia medido y estimaciones del tiempo restante cuando están disponibles.
-- Autorización mediante el código del dispositivo más temprana mientras la preparación de la copia de seguridad continúa en segundo plano.
-- Advertencias para copias de seguridad grandes, con la opción de ocultar futuras advertencias, y confirmación antes de una primera copia de seguridad grande por Wi-Fi.
-- El estado de la copia de seguridad ahora se actualiza correctamente al eliminar una copia.
-- Las novedades de las actualizaciones de software ahora están disponibles en todos los idiomas compatibles.</description>
-            <description xml:lang="fr" sparkle:format="plain-text">- Des étapes de sauvegarde plus claires, une progression mesurée du transfert et des estimations du temps restant lorsqu’elles sont disponibles.
-- Une autorisation par le code de l’appareil demandée plus tôt, pendant que la préparation de la sauvegarde se poursuit en arrière-plan.
-- Des avertissements pour les sauvegardes volumineuses, avec la possibilité de masquer les prochains avertissements, et une confirmation avant une première sauvegarde volumineuse en Wi-Fi.
-- L’état de la sauvegarde est désormais correctement actualisé lorsqu’une sauvegarde est supprimée.
-- Les nouveautés des mises à jour logicielles sont désormais disponibles dans toutes les langues prises en charge.</description>
-            <description xml:lang="it" sparkle:format="plain-text">- Fasi di backup più chiare, avanzamento del trasferimento misurato e stime del tempo rimanente quando disponibili.
-- Autorizzazione tramite il codice del dispositivo richiesta prima, mentre la preparazione del backup continua in background.
-- Avvisi per i backup di grandi dimensioni, con la possibilità di nascondere gli avvisi futuri, e conferma prima di un primo backup di grandi dimensioni tramite Wi-Fi.
-- Lo stato del backup ora si aggiorna correttamente quando un backup viene eliminato.
-- Le novità degli aggiornamenti software sono ora disponibili in tutte le lingue supportate.</description>
-            <description xml:lang="ja" sparkle:format="plain-text">- バックアップの各段階をより分かりやすく表示し、実測に基づく転送の進行状況と、算出できる場合には残り時間の目安を表示します。
-- バックアップの準備をバックグラウンドで進めながら、デバイスのパスコードによる認証をより早い段階で求めるようになりました。
-- 大容量のバックアップには警告を表示し、今後の警告を非表示にすることもできます。Wi-Fi経由で大容量の初回バックアップを開始する前には確認を求めます。
-- バックアップを削除した際に、バックアップの状態が正しく更新されるようになりました。
-- ソフトウェアアップデートの新機能・変更点が、すべての対応言語で表示されるようになりました。</description>
-            <description xml:lang="pt" sparkle:format="plain-text">- Etapas de cópia de segurança mais claras, progresso da transferência medido e estimativas do tempo restante quando disponíveis.
-- Autorização através do código do dispositivo solicitada mais cedo, enquanto a preparação da cópia de segurança continua em segundo plano.
-- Avisos para cópias de segurança grandes, com a opção de ocultar avisos futuros, e confirmação antes de uma primeira cópia de segurança grande por Wi-Fi.
-- O estado da cópia de segurança é agora atualizado corretamente quando uma cópia é eliminada.
-- As novidades das atualizações de software estão agora disponíveis em todos os idiomas suportados.</description>
-            <description xml:lang="zh-Hans" sparkle:format="plain-text">- 更清晰地展示备份的各个阶段、实际传输进度，以及在可估算时显示剩余时间。
-- 在后台继续准备备份的同时，更早提示您输入设备密码进行授权。
-- 大型备份会显示警告，并可选择不再显示此类警告；通过 Wi-Fi 进行大型首次备份前，会要求您确认。
-- 删除备份时，备份状态现在会正确更新。
-- 软件更新的新功能与改进说明现已支持所有受支持的语言。</description>
         </item>
     </channel>
 </rss>
