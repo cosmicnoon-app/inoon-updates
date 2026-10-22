@@ -6,13 +6,13 @@
         <description>Secure software updates for iNoon.</description>
         <language>en</language>
         <item>
-            <title>3.1</title>
-            <pubDate>Wed, 21 Oct 2026 16:13:47 +0800</pubDate>
+            <title>3.2</title>
+            <pubDate>Thu, 22 Oct 2026 10:35:08 +0800</pubDate>
             <link>https://inoon.app/</link>
-            <sparkle:version>44</sparkle:version>
-            <sparkle:shortVersionString>3.1</sparkle:shortVersionString>
+            <sparkle:version>45</sparkle:version>
+            <sparkle:shortVersionString>3.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://inoon.app/downloads/iNoon-3.1-44.dmg" length="36191446" type="application/octet-stream" sparkle:edSignature="YtBmD6l3j5cb13MsqKBsct9+CGFNMfu34DZkQ72DWM8P+nFMZwzAXw6aSDxzf1yP1VDdNs/ZPETLqiuqRSZ7AQ==" sparkle:os="macos" />
+            <enclosure url="https://inoon.app/downloads/iNoon-3.2-45.dmg" length="36194829" type="application/octet-stream" sparkle:edSignature="dFDdpjWneh1JPh67GdfaDQsyfrYB+S06FuIXBmaNE0rXNLIFSWpIs3w1KVjw77a1uCJn+BGAs+wfoZ5+W8V0Bg==" sparkle:os="macos" />
         <description xml:lang="en" sparkle:format="plain-text">- Clearer error messages when loading backup data.
 - Fixes for photo and music operations.
 - General bug fixes and stability improvements.</description><description xml:lang="de" sparkle:format="plain-text">- Verständlichere Fehlermeldungen beim Laden von Backup-Daten.
@@ -31,13 +31,13 @@
 - 修复了照片和音乐操作中的问题。
 - 修复其他问题并提升稳定性。</description></item>
         <item>
-            <title>3.0</title>
-            <pubDate>Tue, 20 Oct 2026 12:04:29 +0800</pubDate>
+            <title>3.1</title>
+            <pubDate>Wed, 21 Oct 2026 16:13:47 +0800</pubDate>
             <link>https://inoon.app/</link>
-            <sparkle:version>43</sparkle:version>
-            <sparkle:shortVersionString>3.0</sparkle:shortVersionString>
+            <sparkle:version>44</sparkle:version>
+            <sparkle:shortVersionString>3.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://inoon.app/downloads/iNoon-3.0-43.dmg" length="36163253" type="application/octet-stream" sparkle:edSignature="uS9f/oh8D6qcSa9fZybTNy6V2TVBe/hxC3k/e9h+CdNl8j8GWYTsEytcwD/f9ZS4gDPRinehxd/S90ACTLF5Dw==" sparkle:os="macos" />
+            <enclosure url="https://inoon.app/downloads/iNoon-3.1-44.dmg" length="36191446" type="application/octet-stream" sparkle:edSignature="YtBmD6l3j5cb13MsqKBsct9+CGFNMfu34DZkQ72DWM8P+nFMZwzAXw6aSDxzf1yP1VDdNs/ZPETLqiuqRSZ7AQ==" sparkle:os="macos" />
             <description xml:lang="en" sparkle:format="plain-text">- Clearer error messages when loading backup data.
 - Fixes for photo and music operations.
 - General bug fixes and stability improvements.</description>
@@ -64,13 +64,13 @@
 - 修复其他问题并提升稳定性。</description>
         </item>
         <item>
-            <title>2.9</title>
-            <pubDate>Thu, 15 Oct 2026 11:05:16 +0800</pubDate>
+            <title>3.0</title>
+            <pubDate>Tue, 20 Oct 2026 12:04:29 +0800</pubDate>
             <link>https://inoon.app/</link>
-            <sparkle:version>42</sparkle:version>
-            <sparkle:shortVersionString>2.9</sparkle:shortVersionString>
+            <sparkle:version>43</sparkle:version>
+            <sparkle:shortVersionString>3.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://inoon.app/downloads/iNoon-2.9-42.dmg" length="35807639" type="application/octet-stream" sparkle:edSignature="lqXGwHYzxZJh+q9EHeNwbTlJaBnNRjOAP0pSr3u3KRC+MSCMBWkA+ui4VdMZ0SnTbZKqYTwoEYqaCm1E3tAbCw==" sparkle:os="macos" />
+            <enclosure url="https://inoon.app/downloads/iNoon-3.0-43.dmg" length="36163253" type="application/octet-stream" sparkle:edSignature="uS9f/oh8D6qcSa9fZybTNy6V2TVBe/hxC3k/e9h+CdNl8j8GWYTsEytcwD/f9ZS4gDPRinehxd/S90ACTLF5Dw==" sparkle:os="macos" />
             <description xml:lang="en" sparkle:format="plain-text">- Clearer error messages when loading backup data.
 - Fixes for photo and music operations.
 - General bug fixes and stability improvements.</description>
